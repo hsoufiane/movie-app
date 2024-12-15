@@ -11,7 +11,7 @@ const Template: StoryFn<MovieCardImageProps> = args => <MovieCardImage {...args}
 
 export const WithRating = Template.bind({});
 WithRating.args = {
-  src: 'https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg',
+  src: 'https://image.tmdb.org/t/p/original/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg',
   alt: 'Movie poster',
   rating: 8.4,
   votes: 18,
@@ -19,6 +19,6 @@ WithRating.args = {
 
 export const WithoutRating = Template.bind({});
 WithoutRating.args = {
-  src: 'https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg',
+  src: 'https://image.tmdb.org/t/p/original/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg',
   alt: 'Movie poster',
 };
