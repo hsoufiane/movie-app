@@ -9,7 +9,7 @@ Ce projet est une application web moderne développée à partir de zéro, utili
 - **React 19.0.0** : La dernière version de la bibliothèque React pour la construction d'interfaces utilisateur.
 - **Next.js 15.1.0** : Framework React pour la production, offrant des fonctionnalités comme le rendu côté serveur et la génération de sites statiques.
 - **TypeScript** : Superset typé de JavaScript, améliorant la maintenabilité et la robustesse du code.
-- **Tailwind CSS 3.3.2** : Framework CSS utilitaire pour un développement rapide et personnalisable.
+- **Tailwind CSS** : Framework CSS utilitaire pour un développement rapide et personnalisable.
 - **Axios** : Client HTTP basé sur les promesses pour le navigateur et Node.js.
 - **React Query** : Bibliothèque pour la gestion de l'état côté serveur dans React.
 - **Cypress** : Framework de test end-to-end moderne et fiable.
