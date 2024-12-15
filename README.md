@@ -21,10 +21,6 @@ Ce projet est une application web moderne développée à partir de zéro, utili
 - **Middleware Fetcher** : Axios est utilisé comme middleware pour gérer les requêtes HTTP.
 - **Gestion d'état** : React Query est utilisé pour gérer les états de succès, d'erreur et de chargement des requêtes.
 
-## Configuration du projet
-
-1. Cloner le dépôt :
-
 ## Scripts disponibles
 
 - `npm run dev` : Lance le serveur de développement Next.js.
